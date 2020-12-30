@@ -1,2 +1,2 @@
 # hello-world
-Começando no GitHub
+  Estou começando minha jornada no GitHub e espero poder colaborar muito por aqui!!
